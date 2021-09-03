@@ -1,5 +1,5 @@
 from selenium import webdriver
-import time
+import tim
 
 
 driver = webdriver.Chrome(r"D:\chromedriver.exe")
